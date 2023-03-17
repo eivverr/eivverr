@@ -16,5 +16,7 @@ J'aime beaucoup coder que ce soit de la programmation avec Python, Java ou le Cs
 
 ## Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=washifr&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WashiFR&repo=Roguelike-2D&theme=github_dark&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
