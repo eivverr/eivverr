@@ -2,7 +2,7 @@
 
 J'ai découvert la programmation en première au lycée après avoir découvert la matière Numérique et Sciences Informatiques (NSI), aujourd'hui encore, je continue sur cette voie étant actuellement en 2<sup>ème</sup> année de BUT Informatique à l'IUT Nancy Charlemagne.
 
-J'aime beaucoup coder que ce soit de la programmation avec Python, Java ou le Csharp avec le luncher Unity, mais aussi du développement web avec HTML et CSS. Plus tard, j'aimerais travailler dans l'industrie du jeu vidéo en tant que Game designer ou en tant que Développeur de jeux vidéo.
+J'aime beaucoup coder que ce soit de la programmation avec Python, Java ou le Csharp avec le luncher Unity pour créer des jeux, mais aussi du développement web avec HTML et CSS. Plus tard, j'aimerais travailler dans l'industrie du jeu vidéo en tant que Game designer ou en tant que Développeur de jeux vidéo.
 
 ## Langages
 
