@@ -4,8 +4,6 @@ J'ai découvert la programmation en première au lycée après avoir découvert 
 
 J'aime beaucoup coder que ce soit de la programmation avec Python, Java ou le Csharp avec le luncher Unity pour créer des jeux, mais aussi du développement web avec HTML et CSS. Plus tard, j'aimerais travailler dans l'industrie du jeu vidéo en tant que Game designer ou en tant que Développeur de jeux vidéo.
 
-<iframe frameborder="0" src="https://itch.io/embed/1803198?bg_color=222222&amp;fg_color=eeeeee&amp;border_color=363636" width="552" height="167"><a href="https://washi-fr.itch.io/cubrunner%22%3ECubRunner by Washi_fr</a></iframe>
-
 ## Langages
 
 <img align="left" height=50 title="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
