@@ -1,5 +1,9 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=washifr.washifr&query_only=true">
 
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%C3%89tudiant+en+BUT+informatique;Bonjour%2C+je+suis+Loris+Weier+%F0%9F%91%8B">
+</h1>
+
 <div align="center">
   <img src="https://media.giphy.com/media/lIzAEoZEn571u/giphy.gif" alt="hello" />
 </div>
@@ -10,19 +14,27 @@ J'ai découvert la programmation en première au lycée après avoir découvert 
 
 J'aime beaucoup coder que ce soit de la programmation avec Python, Java ou le Csharp avec le luncher Unity pour créer des jeux, mais aussi du développement web avec HTML et CSS. Plus tard, j'aimerais travailler dans l'industrie du jeu vidéo en tant que Game designer ou en tant que Développeur de jeux vidéo.
 
-## Langages
+<div align="center">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+  <img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white">
+</div>
 
-<img align="left" height=50 title="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-<img align="left" height=50 title="Java/JavaFX" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" height=50 title="Javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-<img align="left" height=50 title="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-<img align="left" height=50 title="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-<img align="left" height=50 title="PHP" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
-<img align="left" height=50 title="Oracle SQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg">
-<img align="left" height=50 title="Unity" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
-<img height=50 title="Csharp" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
+<hr>
 
-## Stats
+<h2 align="center">🛠️ Langages et Logiciels 🛠️</h2>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WashiFR&hide_progress=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WashiFR&repo=Roguelike-2D&theme=github_dark&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,java,js,html,css,php,cs,md"><br>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,idea,unity">
+</p>
+
+<hr>
+
+<h2 align="center">📊 Stats 📊</h2>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=WashiFR&theme=transparent&hide_border=true&locale=fr"><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=washifr&show_icons=true&theme=transparent&hide_border=true">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=washifr&layout=donut&theme=transparent&hide_border=true">
+</div>
