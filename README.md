@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=washifr.washifr">
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=washifr.washifr&query_only=true">
 
 <div align="center">
   <img src="https://media.giphy.com/media/lIzAEoZEn571u/giphy.gif" alt="hello" />
