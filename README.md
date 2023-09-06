@@ -1,4 +1,4 @@
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge)
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=washifr.WashiFR">
 
 <div align="center">
   <img src="https://media.giphy.com/media/lIzAEoZEn571u/giphy.gif" alt="hello" />
