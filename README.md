@@ -18,7 +18,6 @@ J'aime beaucoup coder que ce soit de la programmation avec Python, Java ou le Cs
   <a href="https://twitter.com/Washi_fr">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
   </a>
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
   <a href="https://washi-fr.itch.io/">
     <img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white">
   </a>
