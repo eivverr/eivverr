@@ -1,3 +1,5 @@
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge)
+
 <div align="center">
   <img src="https://media.giphy.com/media/lIzAEoZEn571u/giphy.gif" alt="hello" />
 </div>
