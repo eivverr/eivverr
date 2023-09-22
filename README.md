@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=washifr.washifr&query_only=true">
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=washifr.washifr">
 
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%C3%89tudiant+en+BUT+informatique;Bonjour%2C+je+suis+Loris+Weier+%F0%9F%91%8B">
