@@ -10,7 +10,7 @@
 
 <br>
 
-<div align="center">
+<div align="left">
   <p>
     J'ai découvert la programmation en première au lycée après avoir découvert la matière Numérique et Sciences Informatiques (NSI), aujourd'hui encore, je continue sur cette voie étant actuellement en 2<sup>ème</sup> année de BUT Informatique à l'IUT Nancy Charlemagne.
 
