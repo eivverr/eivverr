@@ -29,7 +29,7 @@ J'aime beaucoup coder que ce soit de la programmation avec Python, Java ou le Cs
 <h2 align="center">🛠️ Langages et Logiciels 🛠️</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,java,vue,js,html,css,sass,php,sql,cs,flutter,dart,md"><br>
+  <img src="https://skillicons.dev/icons?i=py,java,vue,js,html,css,sass,php,sqlite,cs,flutter,dart,md"><br>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,idea,unity,docker">
 </p>
 
