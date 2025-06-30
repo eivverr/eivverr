@@ -18,18 +18,12 @@ J'aime beaucoup coder que ce soit de la programmation avec Python, Java ou le Cs
   </p>
 </div>
 
-<div align="center">
-  <a href="https://washi-fr.itch.io/">
-    <img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white">
-  </a>
-</div>
-
 <hr>
 
 <h2 align="center">🛠️ Langages et Logiciels 🛠️</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,java,html,css,sass,php,js,vue,nuxt,sqlite,cs,flutter,dart,md"><br>
+  <img src="https://skillicons.dev/icons?i=py,java,html,css,sass,php,js,ts,vue,nuxt,nodejs,sqlite,cs,flutter,dart,md&perline=8"><br>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,idea,unity,docker">
 </p>
 
