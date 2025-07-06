@@ -32,7 +32,7 @@ J'aime beaucoup coder que ce soit de la programmation avec Python, Java ou le Cs
 <h2 align="center">📊 Stats 📊</h2>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=WashiFR&theme=transparent&hide_border=true&locale=fr"><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=washifr&show_icons=true&theme=transparent&hide_border=true">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=washifr&layout=donut&theme=transparent&hide_border=true">
+  <img src="https://streak-stats.demolab.com?user=eivverr&theme=transparent&hide_border=true&locale=fr"><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=eivverr&show_icons=true&theme=transparent&hide_border=true">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eivverr&layout=donut&theme=transparent&hide_border=true">
 </div>
