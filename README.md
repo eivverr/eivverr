@@ -18,16 +18,12 @@ J'aime beaucoup coder que ce soit de la programmation avec Python, Java ou le Cs
   </p>
 </div>
 
-<hr>
-
 <h2 align="center">🛠️ Langages et Logiciels 🛠️</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,java,html,css,sass,php,js,ts,vue,nuxt,nodejs,sqlite,cs,flutter,dart,md&perline=8"><br>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,idea,unity,docker">
 </p>
-
-<hr>
 
 <h2 align="center">📊 Stats 📊</h2>
 
